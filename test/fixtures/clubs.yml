@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  club_id: 1
+  club_name: MyString
+  league: MyString
+  country: MyString
+  club_rating: 1
+
+two:
+  club_id: 1
+  club_name: MyString
+  league: MyString
+  country: MyString
+  club_rating: 1
